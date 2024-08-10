@@ -49,7 +49,7 @@ pip install -r requirements.txt
 pip3 install scanit-cli
 ```
 # Note
-- Intimitatea dvs. este în mâinile dvs. Vă rugăm să nu încărcați fișiere sensibile în baza de date VirusTotal.
+- Intimitatea dvs. este în mâinile dvs. Vă rog să nu încărcați fișiere sensibile în baza de date VirusTotal.
 
 # Credite
 - Pictograma a fost descărcată de pe <a target="_blank" href="https://icons8.com">Icons8</a>
