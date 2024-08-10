@@ -42,14 +42,8 @@ pip install -r requirements.txt
 - Confirmați ștergerea
 - Gata
 
-# Pentru utilizatorii Linux:
-
-- Pentru a instala scanit-cli, utilizați următoarea comandă:
-```bash
-pip3 install scanit-cli
-```
-# Note
-- Intimitatea dvs. este în mâinile dvs. Vă rog să nu încărcați fișiere sensibile în baza de date VirusTotal.
+# Notă
+- Securitatea datelor dvs. este în mâinile dvs. Vă rog să nu încărcați fișiere sensibile în baza de date VirusTotal.
 
 # Credite
 - Pictograma a fost descărcată de pe <a target="_blank" href="https://icons8.com">Icons8</a>
