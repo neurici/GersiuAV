@@ -4,7 +4,7 @@ Cine păstrează antivirusul în zilele noastre? Nimeni nu vrea să-și încetin
 # De ce GersiuAV?
 Mulți oameni, inclusiv eu, preferă să nu păstreze antivirusul în computerul lor. Dar uneori chiar trebuie să scanăm un fișier pentru viruși. În astfel de momente folosim scanere de viruși online precum VirusTotal.com. GersiuAV a adus această funcționalitate în cli-ul tău. Puteți chiar să-l adăugați în meniul contextual folosind install.py, așa cum se arată în imaginea de mai jos, și ghiciți ce? Nu vă încetinește sistemul nici măcar cu 0,01%. Așa că este timpul să ne luăm rămas bun de la antivirusuri și să salutăm serviciile online de scanare a fișierelor.
 
-![Captură de ecran a GersiuAV în meniul contextual.](https://telegra.ph/file/edf19985aac281027e5d9.jpg)
+![Captură de ecran a GersiuAV în meniul contextual.](https://telegra.ph/file/b2891e4f6ac3fcce0f578.png)
 
 # Confidențialitate?
 Scriptul trimite mai întâi hash-ul unui fișier către VirusTotal pentru a verifica dacă același fișier este deja disponibil pentru VirusTotal. În acest caz, datele dumneavoastră sunt complet securizate, deoarece fișierul nu este încărcat. Dar dacă VirusTotal nu recunoaște acel hash, atunci scriptul vă întreabă dacă doriți să încărcați fișierul, în cazul în care răspundeți cu da, fișierul va fi încărcat pe VirusTotal. Deci depinde de dvs. dacă doriți să încarcați fișierul sau nu. Fișierele sensibile nu trebuie încărcate.
