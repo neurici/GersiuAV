@@ -52,4 +52,4 @@ pip3 install scanit-cli
 - Intimitatea dvs. este în mâinile dvs. Vă rugăm să nu încărcați fișiere sensibile în baza de date VirusTotal.
 
 # Credite
-- pictograma <a target="_blank" href="https://icons8.com/icons/set/security-checked">Pictograma Protejați</a> de <a target="_blank" href="https:// icons8.com">Icons8</a>
+- Pictograma a fost descărcată de pe <a target="_blank" href="https://icons8.com">Icons8</a>
